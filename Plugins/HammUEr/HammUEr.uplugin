@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "HammUEr",
+	"Version": 201603160016,
+	"VersionName": "1.1 201603160016",
+	"CreatedBy": "NT Entertainment",
+	"CreatedByURL": "",
+	"Category": "NT Entertainment",
+	"Description": "- Import Hammer VMF & Quake 1-2 MAP map files straight to Unreal Engine\r\n- Export materials to VTF for use in Hammer\r\n- Import VMT+VTF/PNG/BMP/TGA/JPG files and create material instances based on a parent material type\r\n- Export Unreal Engine materials to VMT+VTF combos for use in Hammer\r\n- Import Source MDL files, with automatic placement when loading the VMF",
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "HammUEr",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "Default"
+		}
+	]
+}
